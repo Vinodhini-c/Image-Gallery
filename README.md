@@ -12,3 +12,6 @@ I’m eager to keep learning and tackling new challenges in web development. A b
 
 ## Screenshots
 <img width="1440" alt="1" src="https://github.com/user-attachments/assets/dffe3220-4216-402f-9bc3-4b526b043109">
+<img width="1440" alt="2" src="https://github.com/user-attachments/assets/6bf459a4-37f0-44ab-93a1-bd96aeb807af">
+<img width="1440" alt="3" src="https://github.com/user-attachments/assets/f905b73a-f0e6-4a84-8710-70f7270a2333">
+<img width="1440" alt="4" src="https://github.com/user-attachments/assets/36e30961-24aa-4656-8eab-1e0964d786b8">
